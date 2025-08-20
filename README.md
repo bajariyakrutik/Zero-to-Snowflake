@@ -254,6 +254,7 @@ This course prepares you for:
 
 ## Support Resources
 
+- **Zero-to-Snowflake Course**: https://quickstarts.snowflake.com/guide/zero_to_snowflake/index.html
 - **Snowflake Documentation**: https://docs.snowflake.com
 - **Community**: https://community.snowflake.com
 - **Support**: https://support.snowflake.com
